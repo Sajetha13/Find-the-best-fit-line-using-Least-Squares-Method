@@ -65,8 +65,7 @@ plt.show()
 ```
 
 ## Output:
-![image](https://github.com/Sajetha13/Find-the-best-fit-line-using-Least-Squares-Method/assets/138849316/23202d41-d4f2-4ddb-9c63-c5f1d327a366)
-
+![image](https://github.com/Sajetha13/Find-the-best-fit-line-using-Least-Squares-Method/assets/138849316/226a9fec-5de2-4e8f-b37b-8399c84ceaac)
 
 
 ## Result:
